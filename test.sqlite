@@ -6,6 +6,7 @@ SELECT *
 FROM chat
 LIMIT 20;
 
+
 --Unique games in stream table
 SELECT DISTINCT game
 FROM stream;
